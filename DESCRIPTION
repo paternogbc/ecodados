@@ -1,0 +1,12 @@
+Package: ecodados
+Type: Package
+Title: Dados Ecológicos Para o Ensino de Estatística
+Version: 0.1.0
+Author: 
+Maintainer: Gustavo Paterno <paternogbc@gmail.com>
+Description: 
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)

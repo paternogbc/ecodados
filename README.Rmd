@@ -1,0 +1,44 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# ecodados
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+## Instalação
+
+Você pode instalar o pacote `ecodados` através do comando:
+
+```{r}
+#devtools::install_github("paternogbc/ecodados")
+```
+
+## Como usar?
+
+Para carregar todos os conjuntos de dados:
+
+```{r example}
+library(ecodados)
+```
+
+## Conjuntos de dados disponíveis
+
+N | Nome                | Análise        | Referência     |
+--| ------------------- | -------------- | ---------------| 
+1 | rarefa_morcegos     | Rarefação      | XXX            | 
+2 | poca_anuros         | Rarefação      | XXX            |
+
+
