@@ -28,7 +28,6 @@ Para carregar todos os conjuntos de dados:
 
 ``` r
 library(ecodados)
-
 head(rarefacao_morcegos)
 #>                       MC_Tenentes MC_Talhadinho FF_Experimental
 #> Chrotopterus_auritus            0             1               1

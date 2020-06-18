@@ -40,8 +40,6 @@ Para carregar todos os conjuntos de dados:
 
 ```{r example}
 library(ecodados)
-
 head(rarefacao_morcegos)
 ```
-
 
