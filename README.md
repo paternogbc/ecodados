@@ -20,7 +20,9 @@ devtools::install_github("paternogbc/ecodados")
 | N | Nome             | Análise   | Referência |
 | - | ---------------- | --------- | ---------- |
 | 1 | rarefa\_morcegos | Rarefação | XXX        |
-| 2 | poca\_anuros     | Rarefação | XXX        |
+| 2 | rarefa\_repteis  | Rarefação | XXX        |
+| 3 | rarefa\_anuros   | Rarefação | XXX        |
+| 4 | poca\_anuros     | Rarefação | XXX        |
 
 ## Como usar?
 
