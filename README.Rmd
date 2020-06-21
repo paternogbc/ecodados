@@ -29,10 +29,13 @@ devtools::install_github("paternogbc/ecodados")
 
 ## Conjuntos de dados disponíveis
 
-N | Nome                | Análise        | Referência     |
---| ------------------- | -------------- | ---------------| 
-1 | rarefa_morcegos     | Rarefação      | XXX            | 
-2 | poca_anuros         | Rarefação      | XXX            |
+N | Nome                | Análise        | Referência     | Link     |
+--| ------------------- | -------------- | ---------------| -------- |
+1 | rarefa_morcegos     | Rarefação      | XXX            | [link](data-raw/rarefa_morcegos.csv) |
+2 | rarefa_repeteis     | Rarefação      | XXX            | [link]() |
+3 | rarefa_anuros       | Rarefação      | XXX            | [link]() |
+4 | poca_anuros         | Rarefação      | XXX            | [link]() |
+
 
 ## Como usar?
 
