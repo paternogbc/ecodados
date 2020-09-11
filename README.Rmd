@@ -35,6 +35,7 @@ N | Nome                | Análise        | Referência     |
 2 | rarefa_repteis      | Rarefação      | XXX            | 
 3 | rarefa_anuros       | Rarefação      | XXX            | 
 4 | poca_anuros         | Rarefação      | XXX            | 
+5 | multiva_bocaina     | Multivariada   | XXX            |
 
 ## Como usar?
 
