@@ -44,3 +44,13 @@ usethis::use_data(teste_t_var_diferente, overwrite = TRUE)
 teste_t_pareado <- read.csv("data-raw/teste_t_pareado.csv", sep = ";")
 str(teste_t_pareado)
 usethis::use_data(teste_t_pareado, overwrite = TRUE)
+
+# anova_dois_fatores_interacao1-------------------------------------------------------------
+anova_dois_fatores_interacao1 <- read.csv("data-raw/anova_dois_fatores_interacao1.csv", sep = ";")
+str(anova_dois_fatores_interacao1)
+usethis::use_data(anova_dois_fatores_interacao1, overwrite = TRUE)
+
+# anova_dois_fatores_interacao2-------------------------------------------------------------
+anova_dois_fatores_interacao2 <- read.csv("data-raw/anova_dois_fatores_interacao2.csv", sep = ";")
+str(anova_dois_fatores_interacao2)
+usethis::use_data(anova_dois_fatores_interacao2, overwrite = TRUE)
