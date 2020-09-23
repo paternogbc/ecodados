@@ -2,9 +2,9 @@ Package: ecodados
 Type: Package
 Title: Dados Ecológicos Para o Ensino de Estatística
 Version: 0.1.0
-Author: 
+Author: Gustavo Paterno 
 Maintainer: Gustavo Paterno <paternogbc@gmail.com>
-Description: 
+Description: Um pacote de dados para o ensino de estatística para ecólogos.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
