@@ -13,7 +13,7 @@ filogenia_aves <- read.tree("data-raw/filogenia_aves.tree")
 usethis::use_data(filogenia_aves, overwrite = TRUE)
 
 # Precipitacao_filogenetica
-Precipitacao_filogenetica <- read.csv("data-raw/Precipitacao_filogenetica.csv",
+precipitacao_filogenetica <- read.csv("data-raw/Precipitacao_filogenetica.csv",
                                          sep = ";", row.names = 1)
-Precipitacao_filogenetica
-usethis::use_data(Precipitacao_filogenetica, overwrite = TRUE)
+precipitacao_filogenetica
+usethis::use_data(precipitacao_filogenetica, overwrite = TRUE)
