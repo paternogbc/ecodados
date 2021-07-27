@@ -20,3 +20,8 @@ usethis::use_data(parasitas, overwrite = TRUE)
 roadkills <- read.delim("data-raw/RoadKills.txt")
 head(roadkills)
 usethis::use_data(roadkills, overwrite = TRUE)
+
+# uv_cells------------------------------------------------------------------------
+uv_cells <- read.csv("data-raw/UV_cells.csv", sep = ";")
+head(uv_cells)
+usethis::use_data(uv_cells, overwrite = TRUE)
