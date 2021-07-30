@@ -9,5 +9,6 @@ License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 Depends: 
+    ggplot2,
     R (>= 2.10)
 RoxygenNote: 7.1.1
