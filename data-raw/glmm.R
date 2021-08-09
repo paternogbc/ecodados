@@ -8,7 +8,10 @@ usethis::use_data(fish, overwrite = TRUE)
 
 # lagartos------------------------------------------------------------------------
 lagartos <- read.delim("data-raw/lagartos.txt")
-head(lagartos)
+lagartos$Sex <- trimws(lagartos$Sex)
+lagartos$Sex <- as.factor(lagartos$Sex)
+levels(lagartos$Sex)
+str(lagartos)
 usethis::use_data(lagartos, overwrite = TRUE)
 
 # parasitas------------------------------------------------------------------------
