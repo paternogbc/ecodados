@@ -7,8 +7,9 @@ head(bocaina)
 usethis::use_data(bocaina, overwrite = TRUE)
 
 # altitude--------------------------------------------------------
-altitude <- read.csv("data-raw/altitude.csv", row.names = "X",  encoding = "latin1")
+altitude <- read.csv("data-raw/altitude.csv", row.names = "X", encoding = "latin1")
 head(altitude)
+
 usethis::use_data(altitude, overwrite = TRUE)
 
 # -------------------------------------------------------------------------

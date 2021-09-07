@@ -3,25 +3,25 @@
 \docType{data}
 \name{anova_simples}
 \alias{anova_simples}
-\title{Anova simples}
+\title{ANOVA Simples}
 \format{
 Um data.frame com 36 linhas e duas colunas
 \describe{
-  \item{\code{Crescimento (m)}}{Tamanho médio da planta}
-  \item{\code{tratamento)}}{Tratamento recebido (Controle ou Adubo_Tradicional)}
+  \item{\code{Crescimento (mm)}}{Crescimento dos indivíduos durante o período do experimento}
+  \item{\code{Tratamento}}{Tratamentos: (Controle, Adubo_Tradicional ou Adubo_X_2020)}
 }
-}
-\source{
-\url{http://somewhere.important.com/}
 }
 \usage{
 anova_simples
 }
 \description{
-Dados experimentais de crescimento de plantas, XXX etc...
+Dados simulados de um experimento com indivíduos de Coffea arabica cultivados em três grupos: i) grupo controle onde os indivíduos não receberam adubação, ii) grupo onde os indivíduos receberam a adição do adubo tradicional mais utilizado pelos produtores de C. arabica, e iii) grupo onde os indivíduos receberam a adição do adubo X-2020.
 }
-\references{
-R Core Team (2021). R: A language and environment for statistical computing. R
-Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+\details{
+anova_simples
+}
+\note{
+Dados simulados.
+Dados simulados
 }
 \keyword{datasets}

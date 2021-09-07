@@ -28,3 +28,8 @@ usethis::use_data(roadkills, overwrite = TRUE)
 uv_cells <- read.csv("data-raw/UV_cells.csv", sep = ";")
 head(uv_cells)
 usethis::use_data(uv_cells, overwrite = TRUE)
+
+# fragmentos------------------------------------------------------------------------
+fragmentos <- read.csv("data-raw/fragmentos.csv", sep = ";")
+head(fragmentos)
+usethis::use_data(fragmentos, overwrite = TRUE)
