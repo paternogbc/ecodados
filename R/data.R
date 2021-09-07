@@ -149,3 +149,28 @@
 #' Breviglieri, C. P. B. (2008). Diversidade de morcegos (Chiroptera; Mammalia) em três áreas do noroeste paulista, com ênfase nas relações tróficas em Phyllostomidae. Universidade Estadual Paulista. https://repositorio.unesp.br/handle/11449/87596
 "rarefacao_morcegos"
 
+#' fragmentos
+#' @title Riqueza de espécies de sapos em fragmentos
+#' @description Composição de espécies de anfíbios e variáveis ambientais coletados em nove localidades do noroeste paulista. Neste conjunto de dados as variáveis preditoras já estão padronizadas com média 0 e desvio padrão 1. As variáveis com "2" indicam variáveis quadráticas. As siglas representam a primeira letra do gênero e as duas primeiras letras do epíteto da espécie.
+#' @format Data frame com 40 linhas e 40 colunas:
+#' \describe{
+#'   \item{\code{Riqueza_obs}}{Riqueza observada}
+#'   \item{\code{Riqueza_HB}}{Riqueza estimada}
+#'   \item{\code{X}}{Longitude}
+#'   \item{\code{Y}}{Latitude}
+#'   \item{\code{dfrag}}{Distância para o fragmento mais próximo}
+#'   \item{\code{locality}}{Nome do município}
+#'   \item{\code{site}}{Código do fragmento de mata}
+#'   \item{\code{hydrop}}{Hidroperíodo do corpo d'água amostrado}
+#'   \item{\code{vegcov}}{Cobertura de vegetação aquática}
+#'   \item{\code{nveg}}{Número de tipos de vegetação aquática}
+#'   \item{\code{area}}{Área do corpo d'água}
+#'   \item{\code{depth}}{Profundidade do corpo d'água}
+#'   \item{\code{forcov}}{Cobertura de floresta nativa ao redor do corpo d'água}
+#'   \item{\code{dwater}}{Distância pra o corpo d'água mais próximo}
+#'}
+#' @references
+#' Prado, V.H.M., Rossa-Feres, D.C. (2014) Multiple Determinants of Anuran Richness and #'Occurrence #'in an Agricultural Region in South-Eastern Brazil. Environmental Management 53, #'823–837. https://doi.org/10.1007/s00267-014-0241-y
+#' @source \url{https://link.springer.com/article/10.1007/s00267-014-0241-y}
+"fragmentos"
+

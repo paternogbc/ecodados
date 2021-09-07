@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Function reference • ecodados</title>
+<title>Riqueza de espécies de sapos em fragmentos — fragmentos • ecodados</title>
 
 
 <!-- jquery -->
@@ -39,7 +39,8 @@
 
 
 
-<meta property="og:title" content="Function reference" />
+<meta property="og:title" content="Riqueza de espécies de sapos em fragmentos — fragmentos" />
+<meta property="og:description" content="Composição de espécies de anfíbios e variáveis ambientais coletados em nove localidades do noroeste paulista. Neste conjunto de dados as variáveis preditoras já estão padronizadas com média 0 e desvio padrão 1. As variáveis com &quot;2&quot; indicam variáveis quadráticas. As siglas representam a primeira letra do gênero e as duas primeiras letras do epíteto da espécie." />
 
 
 
@@ -58,7 +59,7 @@
   </head>
 
   <body data-spy="scroll" data-target="#toc">
-    <div class="container template-reference-index">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -100,114 +101,51 @@
       </header>
 
 <div class="row">
-  <div class="contents col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Reference</h1>
+    <h1>Riqueza de espécies de sapos em fragmentos</h1>
+    
+    <div class="hidden name"><code>fragmentos.Rd</code></div>
     </div>
 
-    <table class="ref-index">
+    <div class="ref-description">
+    <p>Composição de espécies de anfíbios e variáveis ambientais coletados em nove localidades do noroeste paulista. Neste conjunto de dados as variáveis preditoras já estão padronizadas com média 0 e desvio padrão 1. As variáveis com "2" indicam variáveis quadráticas. As siglas representam a primeira letra do gênero e as duas primeiras letras do epíteto da espécie.</p>
+    </div>
 
-    <colgroup>
-      
-      <col class="alias" />
-      <col class="title" />
-    </colgroup>
+    <pre class="usage"><span class='va'>fragmentos</span></pre>
 
-    <tbody>
-      <tr>
-        <th colspan="2">
-          <h2 id="section-all-functions" class="hasAnchor"><a href="#section-all-functions" class="anchor"></a>All functions</h2>
-          <p class="section-desc"></p>
-        </th>
-      </tr>
-      
-      
-    </tbody><tbody>
-      
-      
-      <tr>
-        
-        <td>
-          <p><code><a href="ancova.html">ancova</a></code> </p>
-        </td>
-        <td><p>ANCOVA</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="anova_bloco.html">anova_bloco</a></code> </p>
-        </td>
-        <td><p>ANOVA em bloco</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="anova_dois_fatores.html">anova_dois_fatores</a></code> </p>
-        </td>
-        <td><p>ANOVA de dois fatores</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="anova_dois_fatores_interacao1.html">anova_dois_fatores_interacao1</a></code> </p>
-        </td>
-        <td><p>ANOVA de dois fatores com interação</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="anova_dois_fatores_interacao2.html">anova_dois_fatores_interacao2</a></code> </p>
-        </td>
-        <td><p>ANOVA de dois fatores com interação</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="anova_simples.html">anova_simples</a></code> </p>
-        </td>
-        <td><p>ANOVA Simples</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="correlacao.html">correlacao</a></code> </p>
-        </td>
-        <td><p>Correlação</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="fragmentos.html">fragmentos</a></code> </p>
-        </td>
-        <td><p>Riqueza de espécies de sapos em fragmentos</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="rarefacao_morcegos.html">rarefacao_morcegos</a></code> </p>
-        </td>
-        <td><p>Rarefação dados morcegos</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="regressoes.html">regressoes</a></code> </p>
-        </td>
-        <td><p>Regressões</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="teste_t_pareado.html">teste_t_pareado</a></code> </p>
-        </td>
-        <td><p>Teste t Pareado</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="teste_t_var_diferente.html">teste_t_var_diferente</a></code> </p>
-        </td>
-        <td><p>Teste t com variâncias diferentes</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="teste_t_var_igual.html">teste_t_var_igual</a></code> </p>
-        </td>
-        <td><p>Teste t com variâncias iguais</p></td>
-      </tr>
-    </tbody>
-    </table>
+
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>Data frame com 40 linhas e 40 colunas:</p><dl>
+  <dt><code>Riqueza_obs</code></dt><dd><p>Riqueza observada</p></dd>
+  <dt><code>Riqueza_HB</code></dt><dd><p>Riqueza estimada</p></dd>
+  <dt><code>X</code></dt><dd><p>Longitude</p></dd>
+  <dt><code>Y</code></dt><dd><p>Latitude</p></dd>
+  <dt><code>dfrag</code></dt><dd><p>Distância para o fragmento mais próximo</p></dd>
+  <dt><code>locality</code></dt><dd><p>Nome do município</p></dd>
+  <dt><code>site</code></dt><dd><p>Código do fragmento de mata</p></dd>
+  <dt><code>hydrop</code></dt><dd><p>Hidroperíodo do corpo d'água amostrado</p></dd>
+  <dt><code>vegcov</code></dt><dd><p>Cobertura de vegetação aquática</p></dd>
+  <dt><code>nveg</code></dt><dd><p>Número de tipos de vegetação aquática</p></dd>
+  <dt><code>area</code></dt><dd><p>Área do corpo d'água</p></dd>
+  <dt><code>depth</code></dt><dd><p>Profundidade do corpo d'água</p></dd>
+  <dt><code>forcov</code></dt><dd><p>Cobertura de floresta nativa ao redor do corpo d'água</p></dd>
+  <dt><code>dwater</code></dt><dd><p>Distância pra o corpo d'água mais próximo</p></dd>
+
+</dl>
+
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p><a href='https://link.springer.com/article/10.1007/s00267-014-0241-y'>https://link.springer.com/article/10.1007/s00267-014-0241-y</a></p>
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
+
+    <p>fragmentos</p>
+    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
+
+    <p>Prado, V.H.M., Rossa-Feres, D.C. (2014) Multiple Determinants of Anuran Richness and #'Occurrence #'in an Agricultural Region in South-Eastern Brazil. Environmental Management 53, #'823–837. https://doi.org/10.1007/s00267-014-0241-y</p>
+
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
       <h2 data-toc-skip>Contents</h2>
