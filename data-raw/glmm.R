@@ -2,8 +2,9 @@
 library(tidyverse)
 
 # fish------------------------------------------------------------------------
-fish <- read.csv("data-raw/fish.csv", sep = ";")
+fish <- read.delim("data-raw/fish.csv")
 head(fish)
+glimpse(fish)
 usethis::use_data(fish, overwrite = TRUE)
 
 # lagartos------------------------------------------------------------------------
