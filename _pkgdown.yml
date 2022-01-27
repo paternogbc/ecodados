@@ -11,17 +11,17 @@ navbar:
    - icon: fa-github
      href: https://github.com/paternogbc/ecodados
 
-reference:
-  - title: "Anova"
-    desc: >
-      Lista com todos os bancos de dados disponíveis no pacote **ecodados**.
-    contents:
-      - ancova
-      - anova_bloco
-  - title: "Regresões"
-    desc: >
-      Functions for setting the color scheme and ggplot theme used
-      by **bayesplot**. (Also see the separate **ggplot helpers** section
-      below.)
-    contents:
-      - regressoes
+# reference:
+#   - title: "Anova"
+#     desc: >
+#       Lista com todos os bancos de dados disponíveis no pacote **ecodados**.
+#     contents:
+#       - ancova
+#       - anova_bloco
+#   - title: "Regresões"
+#     desc: >
+#       Functions for setting the color scheme and ggplot theme used
+#       by **bayesplot**. (Also see the separate **ggplot helpers** section
+#       below.)
+#     contents:
+#       - regressoes
