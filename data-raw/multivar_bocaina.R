@@ -7,7 +7,7 @@ head(bocaina)
 usethis::use_data(bocaina, overwrite = TRUE)
 
 # bocaina--------------------------------------------------------
-bocaina_env <- read.csv("data-raw/bocaina_env.csv",  sep = ";", row.names = "X")
+bocaina.env <- read.csv("data-raw/bocaina_env.csv",  sep = ";", row.names = "X")
 head(bocaina_env)
 usethis::use_data(bocaina_env, overwrite = TRUE)
 

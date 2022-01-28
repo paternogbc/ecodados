@@ -1,120 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://paternogbc.github.io/ecodados/404.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//index.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/CODE_OF_CONDUCT.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/ancova.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/LICENSE.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/anova_bloco.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/authors.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/anova_dois_fatores.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/index.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/anova_dois_fatores_interacao1.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/ancova.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/anova_dois_fatores_interacao2.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/anova_bloco.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/anova_simples.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/anova_dois_fatores.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/barbaro2009a_amb.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/anova_dois_fatores_interacao1.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/barbaro2009a_trait.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/anova_dois_fatores_interacao2.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/comm.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/anova_simples.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/composicao_anuros_div_taxonomica.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/barbaro2009a_amb.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/composicao_aves_filogenetica.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/barbaro2009a_trait.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/cores.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/comm.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/correlacao.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/composicao_anuros_div_taxonomica.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/filogenia_aves.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/composicao_aves_filogenetica.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/fragmentos.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/cores.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/frenette2012a_amb.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/correlacao.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/frenette2012a_comu.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/filogenia_aves.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/frenette2012a_trait.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/fragmentos.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/lagartos.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/frenette2012a_amb.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/morcegos_rarefacao_amostras.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/frenette2012a_comu.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/parasitas.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/frenette2012a_trait.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/poca_anuros.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/index.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/precipitacao_div_taxonomica.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/lagartos.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/precipitacao_filogenetica.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/morcegos_rarefacao_amostras.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/rarefacao_anuros.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/parasitas.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/rarefacao_morcegos.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/poca_anuros.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/rarefacao_repteis.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/precipitacao_div_taxonomica.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/regressoes.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/precipitacao_filogenetica.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/sp_list.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/rarefacao_anuros.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/teste_t_pareado.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/rarefacao_morcegos.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/teste_t_var_diferente.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/rarefacao_repteis.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/teste_t_var_igual.html</loc>
   </url>
   <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/regressoes.html</loc>
-  </url>
-  <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/sp_list.html</loc>
-  </url>
-  <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/teste_t_pareado.html</loc>
-  </url>
-  <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/teste_t_var_diferente.html</loc>
-  </url>
-  <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/teste_t_var_igual.html</loc>
-  </url>
-  <url>
-    <loc>https://paternogbc.github.io/ecodados/reference/uv_cells.html</loc>
+    <loc>https://paternogbc.github.io/ecodados//reference/uv_cells.html</loc>
   </url>
 </urlset>

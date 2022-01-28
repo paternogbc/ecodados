@@ -1,14 +1,28 @@
 Package: ecodados
-Type: Package
-Title: Dados Ecológicos Para o Ensino de Estatística
-Version: 0.1.0
-Author: Gustavo Paterno 
-Maintainer: Gustavo Paterno <paternogbc@gmail.com>
-Description: Um pacote de dados para o ensino análises ecológicas no R.
-License: CC BY 4.0
+Title: Base Dados Ecológicos Para o Ensino de Estatística
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Gustavo",
+           family = "Paterno",
+           role = c("aut", "cre"),
+           email = "paternogbc@gmail.com",
+           comment = c(ORCID = "")),
+    person(given = "Diogo",
+           family = "Provete",
+           role = "aut",
+           comment = c(ORCID = "")),
+    person(given = "Fernando ",
+           family = "Silva",
+           role = "aut"),
+    person(given = "Thiago",
+           family = "Gonçalves-Souza",
+           role = "aut"),
+     person(given = "Maurício ",
+           family = "Vancine",
+           role = "aut"))
+Description: Esse pacote é uma coleção de bancos de dados ecológicos para serem utilizados no ensino de estátistica.
+License: CC0
 Encoding: UTF-8
 LazyData: true
-Depends: 
-    ggplot2,
-    R (>= 2.10)
+Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
