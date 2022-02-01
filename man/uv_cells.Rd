@@ -7,14 +7,14 @@
 \format{
 Data frame com 50 linhas e 8 variáveis
 \describe{
-  \item{\code{UV}}{Tratamentos, tempos de exposição à luz Ultravioleta: Controle (CT), 6h, 12h, 18h, 24h}
-  \item{\code{Pigmentation}}{Fator com dois níveis: codifica se o girino tinha ou não pigmentação}
-  \item{\code{Total_Cell}}{Número total de células contadas}
-  \item{\code{Lymphocyte}}{Número de linfócitos encontrados no sangue}
-  \item{\code{Neutrophil}}{Número de neutrófilos encontrados no sangue}
-  \item{\code{Basophil}}{Número de basófilos encontrados no sangue}
-  \item{\code{Monocyte}}{Número de monócitos encontrados no sangue}
-  \item{\code{Eosinophil}}{Número de eosinófilos encontrados no sangue}
+\item{\code{UV}}{Tratamentos, tempos de exposição à luz Ultravioleta: Controle (CT), 6h, 12h, 18h, 24h}
+\item{\code{Pigmentation}}{Fator com dois níveis: codifica se o girino tinha ou não pigmentação}
+\item{\code{Total_Cell}}{Número total de células contadas}
+\item{\code{Lymphocyte}}{Número de linfócitos encontrados no sangue}
+\item{\code{Neutrophil}}{Número de neutrófilos encontrados no sangue}
+\item{\code{Basophil}}{Número de basófilos encontrados no sangue}
+\item{\code{Monocyte}}{Número de monócitos encontrados no sangue}
+\item{\code{Eosinophil}}{Número de eosinófilos encontrados no sangue}
 }
 }
 \source{

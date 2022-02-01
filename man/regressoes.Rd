@@ -7,18 +7,18 @@
 \format{
 Um data.frame com 109 linhas e quatro colunas
 \describe{
-  \item{\code{Municipio}}{Nome dos municípios}
-  \item{\code{CRC(milímetros}}{média do comprimento rostro-cloacal dos indivíduos em cada município}
-  \item{\code{Temperatura(°C)}}{temperatura média dos municípios}
-  \item{\code{Precipitação(milímetros)}}{precipitação anual nos municípios}
+\item{\code{Municipio}}{Nome dos municípios}
+\item{\code{CRC(milímetros}}{média do comprimento rostro-cloacal dos indivíduos em cada município}
+\item{\code{Temperatura(°C)}}{temperatura média dos municípios}
+\item{\code{Precipitação(milímetros)}}{precipitação anual nos municípios}
 }
 
 Um data.frame com 109 linhas e quatro colunas
 \describe{
-  \item{\code{Municipio}}{Nome dos municípios}
-  \item{\code{CRC(milímetros}}{média do comprimento rostro-cloacal dos indivíduos em cada município}
-  \item{\code{Temperatura(°C)}}{temperatura média dos municípios}
-  \item{\code{Precipitação(milímetros)}}{precipitação anual nos municípios}
+\item{\code{Municipio}}{Nome dos municípios}
+\item{\code{CRC(milímetros}}{média do comprimento rostro-cloacal dos indivíduos em cada município}
+\item{\code{Temperatura(°C)}}{temperatura média dos municípios}
+\item{\code{Precipitação(milímetros)}}{precipitação anual nos municípios}
 }
 }
 \usage{

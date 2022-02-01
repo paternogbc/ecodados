@@ -7,8 +7,8 @@
 \format{
 Um data.frame com 14 linhas e 17 colunas
 \describe{
-  \item{\code{Linhas}}{cada dia de amostragem no habitat reprodutivo}
-  \item{\code{Colunas}}{17 espécies de anuros registradas nas amostragens}
+\item{\code{Linhas}}{cada dia de amostragem no habitat reprodutivo}
+\item{\code{Colunas}}{17 espécies de anuros registradas nas amostragens}
 }
 }
 \usage{

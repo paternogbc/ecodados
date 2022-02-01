@@ -7,8 +7,8 @@
 \format{
 Data frame com 10 linhas e 32 colunas
 \describe{
-  \item{\code{linhas}}{Comunidades}
-  \item{\code{colunas}}{Espécies de plantas}
+\item{\code{linhas}}{Comunidades}
+\item{\code{colunas}}{Espécies de plantas}
 }
 }
 \usage{

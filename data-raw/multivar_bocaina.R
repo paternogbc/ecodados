@@ -45,3 +45,7 @@ usethis::use_data(anuros_permanova, overwrite = TRUE)
 # -------------------------------------------------------------------------
 macroinv          <- read.csv("data-raw/macroinv.csv", row.names = "X")
 usethis::use_data(macroinv, overwrite = TRUE)
+
+# -------------------------------------------------------------------------
+fish_comm <- read.csv("data-raw/fish_comm.csv", row.names = "X")
+usethis::use_data(fish_comm, overwrite = TRUE)

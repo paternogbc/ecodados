@@ -7,12 +7,12 @@
 \format{
 Data frame com 223 linhas e 6 variáveis
 \describe{
-  \item{\code{Numero}}{Número do indivíduo}
-  \item{\code{Sex}}{Sexo do lagarto}
-  \item{\code{SVL}}{Snout-vent length, Comprimento rostro-cloacal, uma medida de tamanho de corpo}
-  \item{\code{Intact_tail_length}}{Comprimento da cauda intacta}
-  \item{\code{Autotomized_tail_length}}{Comprimeiro da cauda que foi autotomizada}
-  \item{\code{Tail_state}}{Estado da cauda, 0 = Autotomizada; 1 = cauda intacta}
+\item{\code{Numero}}{Número do indivíduo}
+\item{\code{Sex}}{Sexo do lagarto}
+\item{\code{SVL}}{Snout-vent length, Comprimento rostro-cloacal, uma medida de tamanho de corpo}
+\item{\code{Intact_tail_length}}{Comprimento da cauda intacta}
+\item{\code{Autotomized_tail_length}}{Comprimeiro da cauda que foi autotomizada}
+\item{\code{Tail_state}}{Estado da cauda, 0 = Autotomizada; 1 = cauda intacta}
 }
 }
 \source{

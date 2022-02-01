@@ -7,14 +7,14 @@
 \format{
 Um data.frame com 36 linhas e duas colunas
 \describe{
-  \item{\code{Crescimento (mm)}}{Crescimento dos indivíduos durante o período do experimento}
-  \item{\code{Tratamento}}{Tratamentos: (Controle, Adubo_Tradicional ou Adubo_X_2020)}
+\item{\code{Crescimento (mm)}}{Crescimento dos indivíduos durante o período do experimento}
+\item{\code{Tratamento}}{Tratamentos: (Controle, Adubo_Tradicional ou Adubo_X_2020)}
 }
 
 Um data.frame com 36 linhas e duas colunas
 \describe{
-  \item{\code{Crescimento (mm)}}{Crescimento dos indivíduos durante o período do experimento}
-  \item{\code{Tratamento}}{Tratamentos: (Controle, Adubo_Tradicional ou Adubo_X_2020)}
+\item{\code{Crescimento (mm)}}{Crescimento dos indivíduos durante o período do experimento}
+\item{\code{Tratamento}}{Tratamentos: (Controle, Adubo_Tradicional ou Adubo_X_2020)}
 }
 }
 \usage{

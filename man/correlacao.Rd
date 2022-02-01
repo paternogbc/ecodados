@@ -7,14 +7,14 @@
 \format{
 Um data.frame com 35 linhas e duas colunas
 \describe{
-  \item{\code{Tamanho_raiz}}{Tamanho da raiz de cada indivíduo}
-  \item{\code{Tamanho_tronco}}{Tamanho do tronco de cada indivíduo}
+\item{\code{Tamanho_raiz}}{Tamanho da raiz de cada indivíduo}
+\item{\code{Tamanho_tronco}}{Tamanho do tronco de cada indivíduo}
 }
 
 Um data.frame com 35 linhas e duas colunas
 \describe{
-  \item{\code{Tamanho_raiz}}{Tamanho da raiz de cada indivíduo}
-  \item{\code{Tamanho_tronco}}{Tamanho do tronco de cada indivíduo}
+\item{\code{Tamanho_raiz}}{Tamanho da raiz de cada indivíduo}
+\item{\code{Tamanho_tronco}}{Tamanho do tronco de cada indivíduo}
 }
 }
 \usage{

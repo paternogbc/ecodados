@@ -4,7 +4,20 @@
 \alias{barbaro2009a_amb}
 \title{barbaro2009a_amb}
 \format{
-
+Um data frame com 55 linhas e 11 colunas (variáveis):
+\describe{
+\item{\code{DISDEC}}{Distância para a mancha de floresta decídua mais próxima (m)}
+\item{\code{ED 400}}{densidade da borda (m/ha)}
+\item{\code{AREA 400}}{área média da mancha (ha)}
+\item{\code{MEASH 400}}{índice de forma médio}
+\item{\code{SHDI 400}}{índice de diversidade de Shannon}
+\item{\code{FIRE 400}}{cobertura de quebra-fogo (\%)}
+\item{\code{MEAD 400}}{cobertura de prado (\%)}
+\item{\code{HEAT 400}}{cobertura de heatland (\%)}
+\item{\code{YPIN 400}}{cobertura de pinus jovem (\%)}
+\item{\code{MPIN 400}}{cobertura de pinus maduro (\%)}
+\item{\code{DECI 400}}{cobertura de floresta decídua (\%)}
+}
 }
 \description{
 Características ambientais (p. ex.: elevação, índice de aridez) das localidades de ocorrência de 36 espécies de plantas

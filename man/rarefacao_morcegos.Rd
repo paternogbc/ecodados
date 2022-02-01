@@ -7,16 +7,16 @@
 \format{
 Um data.frame com 24 linhas e três colunas
 \describe{
-  \item{\code{MC_Tenentes}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
-  \item{\code{MC_Talhadinho}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
-  \item{\code{FF_Experimental}}{Abundância das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
+\item{\code{MC_Tenentes}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
+\item{\code{MC_Talhadinho}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
+\item{\code{FF_Experimental}}{Abundância das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
 }
 
 Um data.frame com 24 linhas e três colunas
 \describe{
-  \item{\code{MC_Tenentes}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
-  \item{\code{MC_Talhadinho}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
-  \item{\code{FF_Experimental}}{Abundância das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
+\item{\code{MC_Tenentes}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
+\item{\code{MC_Talhadinho}}{Abundância das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
+\item{\code{FF_Experimental}}{Abundância das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
 }
 }
 \usage{

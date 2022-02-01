@@ -7,8 +7,8 @@
 \format{
 Um data.frame com 10 linhas e 10 colunas
 \describe{
-  \item{\code{Linhas}}{comunidades}
-  \item{\code{Colunas}}{espécies}
+\item{\code{Linhas}}{comunidades}
+\item{\code{Colunas}}{espécies}
 }
 }
 \usage{

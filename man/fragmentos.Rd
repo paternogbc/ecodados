@@ -7,38 +7,38 @@
 \format{
 Data frame com 40 linhas e 40 colunas:
 \describe{
-  \item{\code{Riqueza_obs}}{Riqueza observada}
-  \item{\code{Riqueza_HB}}{Riqueza estimada}
-  \item{\code{X}}{Longitude}
-  \item{\code{Y}}{Latitude}
-  \item{\code{dfrag}}{Distância para o fragmento mais próximo}
-  \item{\code{locality}}{Nome do município}
-  \item{\code{site}}{Código do fragmento de mata}
-  \item{\code{hydrop}}{Hidroperíodo do corpo d'água amostrado}
-  \item{\code{vegcov}}{Cobertura de vegetação aquática}
-  \item{\code{nveg}}{Número de tipos de vegetação aquática}
-  \item{\code{area}}{Área do corpo d'água}
-  \item{\code{depth}}{Profundidade do corpo d'água}
-  \item{\code{forcov}}{Cobertura de floresta nativa ao redor do corpo d'água}
-  \item{\code{dwater}}{Distância pra o corpo d'água mais próximo}
+\item{\code{Riqueza_obs}}{Riqueza observada}
+\item{\code{Riqueza_HB}}{Riqueza estimada}
+\item{\code{X}}{Longitude}
+\item{\code{Y}}{Latitude}
+\item{\code{dfrag}}{Distância para o fragmento mais próximo}
+\item{\code{locality}}{Nome do município}
+\item{\code{site}}{Código do fragmento de mata}
+\item{\code{hydrop}}{Hidroperíodo do corpo d'água amostrado}
+\item{\code{vegcov}}{Cobertura de vegetação aquática}
+\item{\code{nveg}}{Número de tipos de vegetação aquática}
+\item{\code{area}}{Área do corpo d'água}
+\item{\code{depth}}{Profundidade do corpo d'água}
+\item{\code{forcov}}{Cobertura de floresta nativa ao redor do corpo d'água}
+\item{\code{dwater}}{Distância pra o corpo d'água mais próximo}
 }
 
 Data frame com 40 linhas e 40 colunas:
 \describe{
-  \item{\code{Riqueza_obs}}{Riqueza observada}
-  \item{\code{Riqueza_HB}}{Riqueza estimada}
-  \item{\code{X}}{Longitude}
-  \item{\code{Y}}{Latitude}
-  \item{\code{dfrag}}{Distância para o fragmento mais próximo}
-  \item{\code{locality}}{Nome do município}
-  \item{\code{site}}{Código do fragmento de mata}
-  \item{\code{hydrop}}{Hidroperíodo do corpo d'água amostrado}
-  \item{\code{vegcov}}{Cobertura de vegetação aquática}
-  \item{\code{nveg}}{Número de tipos de vegetação aquática}
-  \item{\code{area}}{Área do corpo d'água}
-  \item{\code{depth}}{Profundidade do corpo d'água}
-  \item{\code{forcov}}{Cobertura de floresta nativa ao redor do corpo d'água}
-  \item{\code{dwater}}{Distância pra o corpo d'água mais próximo}
+\item{\code{Riqueza_obs}}{Riqueza observada}
+\item{\code{Riqueza_HB}}{Riqueza estimada}
+\item{\code{X}}{Longitude}
+\item{\code{Y}}{Latitude}
+\item{\code{dfrag}}{Distância para o fragmento mais próximo}
+\item{\code{locality}}{Nome do município}
+\item{\code{site}}{Código do fragmento de mata}
+\item{\code{hydrop}}{Hidroperíodo do corpo d'água amostrado}
+\item{\code{vegcov}}{Cobertura de vegetação aquática}
+\item{\code{nveg}}{Número de tipos de vegetação aquática}
+\item{\code{area}}{Área do corpo d'água}
+\item{\code{depth}}{Profundidade do corpo d'água}
+\item{\code{forcov}}{Cobertura de floresta nativa ao redor do corpo d'água}
+\item{\code{dwater}}{Distância pra o corpo d'água mais próximo}
 }
 }
 \source{

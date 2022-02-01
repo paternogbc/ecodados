@@ -6,19 +6,19 @@
 \format{
 Data frame com 80 linhas e 6 variáveis:
 \describe{
-  \item{\code{Animal}}{Código do animal manipulado}
-  \item{\code{Treatment}}{Código do tratamento aplicado: Controle ou aplicação de 10 µM de noradrenalina}
-  \item{\code{Time}}{Tempo experimental: 0h, 1h, 2h, 3h}
-  \item{\code{Sex}}{Sexo dos animals: Macho ou Fêmea}
-  \item{\code{Black}}{Índice de cor escura}
-  \item{\code{Red}}{Índice de cor vermelha}
+\item{\code{Animal}}{Código do animal manipulado}
+\item{\code{Treatment}}{Código do tratamento aplicado: Controle ou aplicação de 10 µM de noradrenalina}
+\item{\code{Time}}{Tempo experimental: 0h, 1h, 2h, 3h}
+\item{\code{Sex}}{Sexo dos animals: Macho ou Fêmea}
+\item{\code{Black}}{Índice de cor escura}
+\item{\code{Red}}{Índice de cor vermelha}
 }
 }
 \source{
 \url{https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.13620}
 }
 \description{
-Dados de um experimento que manipuloua concentração de noradrenalina (NA) nos olhos de peixes esgana-gato (*Gasterosteus aculeatus*) e avaliaram a expressão de várias cores conferidas por tipos de células (cromatóforos).
+Dados de um experimento que manipuloua concentração de noradrenalina (NA) nos olhos de peixes esgana-gato (\emph{Gasterosteus aculeatus}) e avaliaram a expressão de várias cores conferidas por tipos de células (cromatóforos).
 }
 \references{
 

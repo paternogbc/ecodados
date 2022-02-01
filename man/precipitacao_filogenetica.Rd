@@ -7,8 +7,8 @@
 \format{
 Data frame com 10 linhas e uma coluna.
 \describe{
-  \item{\code{linhas}}{Comunidades}
-  \item{\code{prec (mm)}}{Precipitação anual}
+\item{\code{linhas}}{Comunidades}
+\item{\code{prec (mm)}}{Precipitação anual}
 }
 }
 \usage{

@@ -6,7 +6,7 @@
 \format{
 Um data frame com 101 linhas e 32 colunas (espécies):
 \describe{
-  \item{\code{spn}}{lista com cada espécie codificada de sp1 a sp32}
+\item{\code{spn}}{lista com cada espécie codificada de sp1 a sp32}
 }
 }
 \description{

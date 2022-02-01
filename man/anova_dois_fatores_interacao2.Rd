@@ -7,16 +7,16 @@
 \format{
 Um data.frame com 40 linhas e três colunas
 \describe{
-  \item{\code{Tempo (minutos)}}{Tempo para eliminar a droga do corpo}
-  \item{\code{Pessoas}}{Tratamentos: (XX ou XY)}
-  \item{\code{Idade}}{Tratamentos: (Jovem ou Idoso)}
+\item{\code{Tempo (minutos)}}{Tempo para eliminar a droga do corpo}
+\item{\code{Pessoas}}{Tratamentos: (XX ou XY)}
+\item{\code{Idade}}{Tratamentos: (Jovem ou Idoso)}
 }
 
 Um data.frame com 40 linhas e três colunas
 \describe{
-  \item{\code{Tempo (minutos)}}{Tempo para eliminar a droga do corpo}
-  \item{\code{Pessoas}}{Tratamentos: (XX ou XY)}
-  \item{\code{Idade}}{Tratamentos: (Jovem ou Idoso)}
+\item{\code{Tempo (minutos)}}{Tempo para eliminar a droga do corpo}
+\item{\code{Pessoas}}{Tratamentos: (XX ou XY)}
+\item{\code{Idade}}{Tratamentos: (Jovem ou Idoso)}
 }
 }
 \usage{

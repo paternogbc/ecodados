@@ -6,18 +6,18 @@
 \format{
 Um data frame com 36 linhas (espécies) e 12 colunas (atributos):
 \describe{
-  \item{\code{trend}}{tendência populacional: (1) aumentando, (2) estável, (3) decrescendo}
-  \item{\code{redlist}}{raridade na europa: (1) não-ameaçada, (2) ameaçada}
-  \item{\code{regio}}{raridade regional: (1) >15 dados regionais, (2) 10-15 dados regionais, (3) 4-9 dados regionais, (4) <3 dados regionais}
-  \item{\code{biog}}{posição biogeográfica: (1) mediterrâneo ou atlântico, (2) amplamente distribuída, (3) norte ou central}
-  \item{\code{activ}}{atividade diária: (1) diurna, (2) diurna/noturna, (3) noturna}
-  \item{\code{diet}}{tipo de dieta: (1) collembola, (2) predador generalista, (3) fitófago ou misto}
-  \item{\code{winter}}{hibernação: (1) somente imago, (2) imago e larva}
-  \item{\code{color}}{cor corporal: (1) preto ou marrom, (2) metálico}
-  \item{\code{breed}}{estação de reprodução: (1) primavera, (2) verão, (3) outono}
-  \item{\code{body}}{tamanho corporal: (1) <6mm, (2) 6-7,9mm, (3) 8-9,9mm, (4) 10-11,9mm}
-  \item{\code{wing}}{desenvolvimento da asa: (1) braquíptero, (2) dimórfico, (3) macroptero}
-  \item{\code{period}}{período de atividade do adulto: (1) início da primavera, (2) final da primavera, (3) verão/outono}
+\item{\code{trend}}{tendência populacional: (1) aumentando, (2) estável, (3) decrescendo}
+\item{\code{redlist}}{raridade na europa: (1) não-ameaçada, (2) ameaçada}
+\item{\code{regio}}{raridade regional: (1) >15 dados regionais, (2) 10-15 dados regionais, (3) 4-9 dados regionais, (4) <3 dados regionais}
+\item{\code{biog}}{posição biogeográfica: (1) mediterrâneo ou atlântico, (2) amplamente distribuída, (3) norte ou central}
+\item{\code{activ}}{atividade diária: (1) diurna, (2) diurna/noturna, (3) noturna}
+\item{\code{diet}}{tipo de dieta: (1) collembola, (2) predador generalista, (3) fitófago ou misto}
+\item{\code{winter}}{hibernação: (1) somente imago, (2) imago e larva}
+\item{\code{color}}{cor corporal: (1) preto ou marrom, (2) metálico}
+\item{\code{breed}}{estação de reprodução: (1) primavera, (2) verão, (3) outono}
+\item{\code{body}}{tamanho corporal: (1) <6mm, (2) 6-7,9mm, (3) 8-9,9mm, (4) 10-11,9mm}
+\item{\code{wing}}{desenvolvimento da asa: (1) braquíptero, (2) dimórfico, (3) macroptero}
+\item{\code{period}}{período de atividade do adulto: (1) início da primavera, (2) final da primavera, (3) verão/outono}
 }
 }
 \description{

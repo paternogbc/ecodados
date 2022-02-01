@@ -7,10 +7,10 @@
 \format{
 Data frame com 195 linhas e 5 variáveis:
 \describe{
-  \item{\code{Especie}}{Espécie do lagarto coletado: Phyllopezus_pollicaris e Hemidactylus agrius}
-  \item{\code{Sexo}}{Sexo do lagarto coletado}
-  \item{\code{CRC}}{Comprimento Rostro-Cloacal (mm) do lagarto coletado}
-  \item{\code{Raillietiella_mottae}}{Número de parasitas da espécie Raillietiella_mottae encontrados}
+\item{\code{Especie}}{Espécie do lagarto coletado: Phyllopezus_pollicaris e Hemidactylus agrius}
+\item{\code{Sexo}}{Sexo do lagarto coletado}
+\item{\code{CRC}}{Comprimento Rostro-Cloacal (mm) do lagarto coletado}
+\item{\code{Raillietiella_mottae}}{Número de parasitas da espécie Raillietiella_mottae encontrados}
 }
 }
 \source{

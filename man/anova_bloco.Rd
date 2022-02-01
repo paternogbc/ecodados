@@ -7,16 +7,16 @@
 \format{
 Um data.frame com 30 linhas e três colunas
 \describe{
-  \item{\code{Riqueza}}{Número de espécies de anuros em cada poça artificial}
-  \item{\code{Blocos}}{Seis fragmentos florestais}
-  \item{\code{Pocas}}{Tratamentos: (Int-100m, Int-50m, borda, Mat-50m ou Mat-100m)}
+\item{\code{Riqueza}}{Número de espécies de anuros em cada poça artificial}
+\item{\code{Blocos}}{Seis fragmentos florestais}
+\item{\code{Pocas}}{Tratamentos: (Int-100m, Int-50m, borda, Mat-50m ou Mat-100m)}
 }
 
 Um data.frame com 30 linhas e três colunas
 \describe{
-  \item{\code{Riqueza}}{Número de espécies de anuros em cada poça artificial}
-  \item{\code{Blocos}}{Seis fragmentos florestais}
-  \item{\code{Pocas}}{Tratamentos: (Int-100m, Int-50m, borda, Mat-50m ou Mat-100m)}
+\item{\code{Riqueza}}{Número de espécies de anuros em cada poça artificial}
+\item{\code{Blocos}}{Seis fragmentos florestais}
+\item{\code{Pocas}}{Tratamentos: (Int-100m, Int-50m, borda, Mat-50m ou Mat-100m)}
 }
 }
 \usage{

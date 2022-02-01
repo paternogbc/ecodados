@@ -7,14 +7,14 @@
 \format{
 Um data.frame com 12 linhas e duas colunas
 \describe{
-  \item{\code{CRC (milímetros)}}{Comprimento rostro-cloacal de cada indivíduo de L. podicipinus}
-  \item{\code{Estacao}}{Tratamentos considerando as estações do ano (Chuvosa ou Seca)}
+\item{\code{CRC (milímetros)}}{Comprimento rostro-cloacal de cada indivíduo de L. podicipinus}
+\item{\code{Estacao}}{Tratamentos considerando as estações do ano (Chuvosa ou Seca)}
 }
 
 Um data.frame com 12 linhas e duas colunas
 \describe{
-  \item{\code{CRC (milímetros)}}{Comprimento rostro-cloacal de cada indivíduo de L. podicipinus}
-  \item{\code{Estacao}}{Tratamentos considerando as estações do ano (Chuvosa ou Seca)}
+\item{\code{CRC (milímetros)}}{Comprimento rostro-cloacal de cada indivíduo de L. podicipinus}
+\item{\code{Estacao}}{Tratamentos considerando as estações do ano (Chuvosa ou Seca)}
 }
 }
 \usage{

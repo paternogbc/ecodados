@@ -7,8 +7,8 @@
 \format{
 Um data.frame com 27 linhas e duas colunas
 \describe{
-  \item{\code{Coleta Campo}}{Abundância das espécies de anuros registradas nas coletas de campo}
-  \item{\code{Colecoes Cientificas}}{Abundância das espécies de anuros registradas nas coleções científicas}
+\item{\code{Coleta Campo}}{Abundância das espécies de anuros registradas nas coletas de campo}
+\item{\code{Colecoes Cientificas}}{Abundância das espécies de anuros registradas nas coleções científicas}
 }
 }
 \usage{

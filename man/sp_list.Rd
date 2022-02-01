@@ -7,9 +7,9 @@
 \format{
 Data frame com 32 linhas e 3 colunas
 \describe{
-  \item{\code{species}}{nome científico ou morfoespécies de 32 espécies de plantas}
-  \item{\code{genus}}{gêneros das espécies de plantas}
-  \item{\code{family}}{família das espécies de plantas}
+\item{\code{species}}{nome científico ou morfoespécies de 32 espécies de plantas}
+\item{\code{genus}}{gêneros das espécies de plantas}
+\item{\code{family}}{família das espécies de plantas}
 }
 }
 \usage{

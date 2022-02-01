@@ -7,16 +7,16 @@
 \format{
 Um data.frame com 40 linhas e três colunas
 \describe{
-  \item{\code{Raiz (mm)}}{Tamanho da raiz medido para cada indivíduo}
-  \item{\code{Biomassa (g)}}{Peso dos frutos produzidos por cada indivíduo}
-  \item{\code{Herbivoria}}{Tratamentos considerando a herbivoria (Sem_herb ou Com_herb)}
+\item{\code{Raiz (mm)}}{Tamanho da raiz medido para cada indivíduo}
+\item{\code{Biomassa (g)}}{Peso dos frutos produzidos por cada indivíduo}
+\item{\code{Herbivoria}}{Tratamentos considerando a herbivoria (Sem_herb ou Com_herb)}
 }
 
 Um data.frame com 40 linhas e três colunas
 \describe{
-  \item{\code{Raiz (mm)}}{Tamanho da raiz medido para cada indivíduo}
-  \item{\code{Biomassa (g)}}{Peso dos frutos produzidos por cada indivíduo}
-  \item{\code{Herbivoria}}{Tratamentos considerando a herbivoria (Sem_herb ou Com_herb)}
+\item{\code{Raiz (mm)}}{Tamanho da raiz medido para cada indivíduo}
+\item{\code{Biomassa (g)}}{Peso dos frutos produzidos por cada indivíduo}
+\item{\code{Herbivoria}}{Tratamentos considerando a herbivoria (Sem_herb ou Com_herb)}
 }
 }
 \usage{

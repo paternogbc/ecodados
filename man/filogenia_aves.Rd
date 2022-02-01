@@ -7,7 +7,7 @@
 \format{
 Árvore no formato phylo
 \describe{
-  \item{\code{Tips}}{37 espécies de aves da Mata Atlântica}
+\item{\code{Tips}}{37 espécies de aves da Mata Atlântica}
 }
 }
 \usage{

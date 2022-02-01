@@ -6,11 +6,11 @@
 \format{
 Um data frame com 35 linhas (espécie) e 5 colunas (atributos):
 \describe{
-  \item{\code{LA}}{área foliar (mm2)}
-  \item{\code{SLA}}{área foliar específica (mm2 mg-1)}
-  \item{\code{LDMC}}{conteúdo de matéria seca foliar (mg g-1)}
-  \item{\code{LN15}}{conteúdo de nitrôgenio 15 foliar (‰)}
-  \item{\code{LCC}}{conteúdo de carbono foliar(μg mg-1)}
+\item{\code{LA}}{área foliar (mm2)}
+\item{\code{SLA}}{área foliar específica (mm2 mg-1)}
+\item{\code{LDMC}}{conteúdo de matéria seca foliar (mg g-1)}
+\item{\code{LN15}}{conteúdo de nitrôgenio 15 foliar (‰)}
+\item{\code{LCC}}{conteúdo de carbono foliar(μg mg-1)}
 }
 }
 \description{

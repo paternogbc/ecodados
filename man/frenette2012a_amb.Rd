@@ -4,7 +4,14 @@
 \alias{frenette2012a_amb}
 \title{frenette2012a_amb}
 \format{
-
+Um data frame com 55 linhas e 5 colunas (variáveis):
+\describe{
+\item{\code{Grazing}}{Tratamento com dois níveis: com pastejo (grazed) e sem pastejo (ungrazed)}
+\item{\code{Aridity}}{Índice de aridez: evapotranspiração potencial/precipitação}
+\item{\code{Exclosure}}{duração da exclusão do pastejo}
+\item{\code{Bare.ground.2009}}{\% do solo sem cobertura vegetal em 2009}
+\item{\code{Elevation (masl)}}{elevação em metro acima do nível do mar}
+}
 }
 \description{
 Características ambientais das localidades de ocorrência de 32 espécies de plantas

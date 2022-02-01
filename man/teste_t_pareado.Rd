@@ -7,16 +7,16 @@
 \format{
 Um data.frame com 54 linhas e três colunas
 \describe{
-  \item{\code{Areas}}{27 localidades amostradas}
-  \item{\code{Riqueza}}{Número de espécies de artrópodes em cada localidade}
-  \item{\code{Estado}}{Tratamento: Pré-queimada ou Pós-queimada}
+\item{\code{Areas}}{27 localidades amostradas}
+\item{\code{Riqueza}}{Número de espécies de artrópodes em cada localidade}
+\item{\code{Estado}}{Tratamento: Pré-queimada ou Pós-queimada}
 }
 
 Um data.frame com 54 linhas e três colunas
 \describe{
-  \item{\code{Areas}}{27 localidades amostradas}
-  \item{\code{Riqueza}}{Número de espécies de artrópodes em cada localidade}
-  \item{\code{Estado}}{Tratamento: Pré-queimada ou Pós-queimada}
+\item{\code{Areas}}{27 localidades amostradas}
+\item{\code{Riqueza}}{Número de espécies de artrópodes em cada localidade}
+\item{\code{Estado}}{Tratamento: Pré-queimada ou Pós-queimada}
 }
 }
 \usage{

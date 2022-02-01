@@ -7,10 +7,10 @@
 \format{
 Um data.frame com 20 linhas e três colunas
 \describe{
-  \item{\code{Primeira linha}}{Número de amostragens em cada localidade}
-  \item{\code{MC_Tenentes}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
-  \item{\code{MC_Talhadinho}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
-  \item{\code{FF_Experimental}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
+\item{\code{Primeira linha}}{Número de amostragens em cada localidade}
+\item{\code{MC_Tenentes}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento de mata ciliar do córrego dos tenentes}
+\item{\code{MC_Talhadinho}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento de mata ciliar do córrego talhadinho}
+\item{\code{FF_Experimental}}{Frequência de ocorrência das espécies de morcegos registradas no fragmento da fazenda experimental de Pindorama}
 }
 }
 \usage{
