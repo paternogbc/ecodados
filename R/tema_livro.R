@@ -1,8 +1,7 @@
 #' @export
 tema_livro <-
   function(size.axis = 10,
-           size.plot = 14,
-           family = "Tahoma") {
+           size.plot = 14) {
     theme(
       panel.border = element_rect(
         colour = "black",
@@ -23,7 +22,6 @@ tema_livro <-
       panel.background = element_blank(),
       plot.title = element_text(
         size = size.plot,
-        family = family,
         face = "bold"
       ),
       text = element_text()
