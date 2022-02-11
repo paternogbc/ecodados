@@ -3,8 +3,8 @@ library(tidyverse)
 library(ape)
 
 # -------------------------------------------------------------------------
-anuros_ambientais <- read_csv("data-raw/anuros_ambientais.csv")
-usethis::use_data(anuros_ambientais)
+anuros_ambientais <- read.csv("data-raw/anuros_ambientais.csv",row.names = 1)
+usethis::use_data(anuros_ambientais, overwrite = TRUE)
 
 # -------------------------------------------------------------------------
 anuros_composicao <- read.csv("data-raw/anuros_composicao.csv", row.names = 1)
