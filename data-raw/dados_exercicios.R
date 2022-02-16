@@ -50,3 +50,9 @@ usethis::use_data(Cap10_exercicio2)
 
 Cap11_exercicio1 <- read.csv("data-raw/Cap11_exercicio1.csv",header = T, row.names = 1)
 usethis::use_data(Cap11_exercicio1)
+
+
+# Cap 9 -------------------------------------------------------------------
+lagos <- read.table('data-raw/lagos.txt')
+usethis::use_data(lagos)
+
