@@ -34,3 +34,8 @@ usethis::use_data(uv_cells, overwrite = TRUE)
 fragmentos <- read.csv("data-raw/fragmentos.csv", sep = ";")
 head(fragmentos)
 usethis::use_data(fragmentos, overwrite = TRUE)
+
+
+# Cores -------------------------------------------------------------------
+cores <- read.csv2("https://ndownloader.figshare.com/files/10250700", header = TRUE)
+usethis::use_data(cores, overwrite = TRUE)
