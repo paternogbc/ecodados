@@ -45,4 +45,4 @@ usethis::use_data(geo_vetor_rio_claro)
 allfiles
 
 geo_anfibios_especies <- readRDS("data-raw/geo_rds/geo_anfibios_especies.rds")
-usethis::use_data(geo_anfibios_especies)
+usethis::use_data(geo_anfibios_especies, overwrite = TRUE)
